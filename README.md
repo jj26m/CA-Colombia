@@ -1,4 +1,4 @@
-# Grupo Sura
+# Santiago de Cali
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -71,7 +71,7 @@
 </head>
 <body>
     <header>
-        <h1>CA Sura</h1>
+        <h1>GRUPO SURA</h1>
         <p>Nuestro mejor activo: la gente</p>
     </header>
 
